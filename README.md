@@ -9,7 +9,7 @@ This project is a detailed **Financial Analytics report on Amazon.com, Inc. (AMZ
 
 ## 📝 Project Summary
 
-**Recommendation:** ✅ BUY  
+**Recommendation:** ✅ BUY (as of oct 09 2024)
 **Target Price:** $195.76  
 **Valuation Methods:** 50% DCF + 50% Relative Valuation  
 **Timeframe:** October 2024 (used the Income Statement and Balance statement)
